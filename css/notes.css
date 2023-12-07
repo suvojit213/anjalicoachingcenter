@@ -26,3 +26,8 @@ body{background-image: url(/images/notes\ background\ image.jpg);}
     border: none;
     cursor: pointer;
   }
+
+  .political{background-color: aliceblue;color: black;
+    border-style: double; border-color: black;border-radius: 4px;margin-left: 20px;
+
+}

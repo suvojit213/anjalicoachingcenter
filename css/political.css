@@ -1,0 +1,10 @@
+.backbutton{
+    background-image: url("/images/back-arrow.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 40px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+  }
