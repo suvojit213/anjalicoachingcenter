@@ -1,6 +1,16 @@
-
-.mainheading{margin-left: 100px;
-padding-right: 100px;
-
-
+/* Center Main Heading */
+.mainheading {
+    text-align: center;
+    margin: 0 auto; /* Center horizontally */
+    padding: 20px; /* Add some padding for spacing */
 }
+.backbutton{
+    background-image: url("/images/back-arrow.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 40px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+  }
