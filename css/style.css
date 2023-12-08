@@ -72,3 +72,21 @@ margin-top:100px ;
 @media (min-width: 993px) {
   /* Styles for desktops */
 }
+
+.copyright{
+  position: fixed;
+  bottom: 0;
+  border-style: double;
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  left: 0;
+  width: auto;
+  text-align: center;
+  padding: 5px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin-left: 79px;
+  margin-bottom: 5px;
+  background-color: #000000;
+  color: #fff;
+}
