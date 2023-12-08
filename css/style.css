@@ -9,7 +9,7 @@ body {
   }
   
   .mainheading {
-    font-size: 28px; /* Define font size for mobile devices */
+    font-size: 30px; /* Define font size for mobile devices */
     font-weight: bold;
     text-align: center;
     margin: 3px 0;
@@ -35,6 +35,14 @@ body {
     font-family: 'Mina', sans-serif;
   }
   
+  @media (max-width: 768px) {
+    .description {
+      font-size: 18px; /* Adjust font size further for smaller screens */
+    }
+  }
+
+
+
   .notesbutton {
     background-color: #2555bd;
     color: #fff;
