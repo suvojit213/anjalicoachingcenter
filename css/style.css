@@ -24,12 +24,13 @@ body {
   }
   
   .description {
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.5;
     text-align: center;
     color: #fbfcfa;
     padding: 20px;
     background-color: #000000;
+    font-family: 'Mina', sans-serif;
   }
   
   .notesbutton {
